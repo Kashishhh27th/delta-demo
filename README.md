@@ -1,2 +1,2 @@
 # delta-demo
-this is a practice session for git and github
+this is a practice session for git and github.
